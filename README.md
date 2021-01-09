@@ -1,2 +1,4 @@
 # loyal-intent
-Loyal AI Coding Challenge - Intent Classification
+Loyal AI intent classification coding challenge
+
+### submission by David Vaughn
